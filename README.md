@@ -66,4 +66,4 @@ Accuracy will be used to evaluated the models because this a simple classificati
     6.2 Income, when to become member and age are also important
 7. Random forest model is able to predict wether customer completes the offer with 78.8% accuracy
     7.1 The most important feature for completing the offer is wether the income of the customer  
-    7.2 The age and when to become member, reward, difficilty and duratio of the offer also impact the offer completion
+    7.2 The age and when to become member, reward, difficulty and duration of the offer also impact the offer completion
